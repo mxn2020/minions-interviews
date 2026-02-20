@@ -6,7 +6,7 @@ You are tasked with creating the complete initial foundation for **minions-inter
 
 **PROJECT OVERVIEW**
 
-`minions-interviews` is a structured system for conducting, transcribing, and analyzing research interviews. Different from `minions-hiring` — this is for UX research, journalism, and academic interviews.
+`minions-interviews` is a structured system for conducting, transcribing, and analyzing research interviews. Different from `@minions-hiring/sdk` — this is for UX research, journalism, and academic interviews.
 
 Agents can extract themes, surface key quotes, and synthesize insights across multiple interviews.
 
